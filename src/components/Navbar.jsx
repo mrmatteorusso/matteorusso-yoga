@@ -19,15 +19,16 @@ function Navbar() {
                         </Link>
                     </li>
                     <li>
-                        <Link className="linkNav" to="/contatti">
-                            Contatti
-                        </Link>
-                    </li>
-                    <li>
                         <Link className="linkNav" to="/lezioni">
                             Lezioni
                         </Link>
                     </li>
+                    <li>
+                        <Link className="linkNav" to="/contatti">
+                            Contatti
+                        </Link>
+                    </li>
+
                 </ul>
             </nav>
         </div>
