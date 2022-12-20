@@ -2,7 +2,7 @@ import React from "react";
 
 function Lezioni() {
     return (
-        <div>
+        <div className="lezioni" >
 
             <h2>4 tipi di lezioni</h2>
             <h3>Lezione di gruppo guidata</h3>
@@ -22,7 +22,7 @@ function Lezioni() {
                 Puó includere momenti di spiegazione, intervallati a momenti di pratica di movimenti o tecniche respiratorie o di rilassamento
             </p>
 
-        </div>
+        </div >
     )
 }
 
