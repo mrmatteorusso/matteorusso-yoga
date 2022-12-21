@@ -9,7 +9,7 @@ function Navbar() {
             <nav>
                 <ul>
                     <li>
-                        <Link className="linkNav" style={{ textDecoration: "none" }} to="/">
+                        <Link className="linkNav" to="/">
                             Home
                         </Link>
                     </li>
