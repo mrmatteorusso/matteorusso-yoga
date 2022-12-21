@@ -8,7 +8,7 @@ function Lezioni() {
             <h3>Lezione di gruppo guidata</h3>
             <p>La lezione tenuta in un contesto intimo e non competitivo generalmente è composte da un parte in cui vengono presentati
                 e si eseguono serie di movimenti coordinati dal respiro e una seconda parte di relax guidato e/o tecniche di respirazione.
-                Normalmente un gruppo di lezioni è incentrato su un particolare aspetto dello Yoga come per esempio la flessibilita’,
+                Normalmente un gruppo di lezioni è incentrato su un particolare aspetto dello Yoga come per esempio la flessibilitá,
                 il ritmo del respiro, il rilassamento
             </p>
             <h3>Lezione privata guidata</h3>
