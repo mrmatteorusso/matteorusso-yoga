@@ -4,6 +4,7 @@ import Home from "pages/Home";
 import Lezioni from "pages/Lezioni";
 import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
+import { Footer } from "./Footer";
 import Navbar from "./Navbar";
 
 
@@ -20,6 +21,8 @@ export function Layout() {
                     <Route path="*" element={<NoMatch />} />
                 </Route>
             </Routes>
+            <Footer />
+
         </>
     );
 }
